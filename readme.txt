@@ -1,2 +1,13 @@
-练习，
-git 上传
+Git is a distributed version control system.
+Git is free software.
+
+333333Git is a distributed version control system.
+Git is free software.
+
+333333Git is a distributed version control system.
+Git is free software.
+
+ version control system.
+Git is free software.
+
+333333
